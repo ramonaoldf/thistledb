@@ -11,7 +11,7 @@ Simple JSON database based on the **file-access** and **server-client** approach
 
 First, clone or fork the repository:
 ```
-$ git clone git@github.com:ttulka/thistledb.git
+$ git clone git@github.com:ramonaoldf/thistledb.git
 $ cd thistledb
 ```
 Now build it and assemble:
